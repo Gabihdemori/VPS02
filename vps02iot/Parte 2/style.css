@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(253, 228, 242);
+    color: midnightblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color: black;
+}
